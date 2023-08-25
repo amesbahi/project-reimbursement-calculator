@@ -6,10 +6,10 @@ This project provides functionality to calculate reimbursements for various proj
 
 ## Prerequisites
 
-Node.js (v14.0.0 or later)
-TypeScript (v5.1.6 or later)
-Jest (v29.6.2 or later)
-ts-jest (v29.1.1 or later)
+1. Node.js (v14.0.0 or later)
+2. TypeScript (v5.1.6 or later)
+3. Jest (v29.6.2 or later)
+4. ts-jest (v29.1.1 or later)
 
 ## Installation
 
